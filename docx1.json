@@ -1,0 +1,229 @@
+{
+    "title": "The Impact of Social Media on College Students",
+    "author_name": "John Doe",
+    "affiliation": "University of Example",
+    "course_number": "PSY 123: Introduction to Psychology",
+    "instructor_name": "Professor Jane Smith",
+    "date": "September 9, 2024",
+    "abstract": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae mi sit amet nisi elementum accumsan maximus egestas augue. Curabitur eget urna at metus vestibulum fermentum. Sed ante nunc, interdum eu libero a, dignissim condimentum magna. In non ante ut felis auctor rutrum. Nulla malesuada, mauris vitae vulputate pellentesque, nulla leo consectetur nulla, quis pretium orci ante non nunc. Suspendisse consequat lorem odio, facilisis mattis lorem tempor vitae. Donec tristique, sem eu lacinia pulvinar, enim eros eleifend arcu, commodo aliquet risus erat a dolor. Cras fermentum, est eget commodo tristique, sem orci mattis elit, vel feugiat dui risus eu ligula. Aliquam erat volutpat. Nullam id mi vel justo cursus venenatis. Nullam id tortor eget ipsum ultrices interdum at vel neque. Nunc at lorem a felis viverra iaculis."
+    ],
+    "keywords": ["APA style", "citations", "frustration"],
+    "sections": [
+    {
+      "heading": "Writing in APA Style 7th Edition Example Paper",
+      "level": 1,
+      "content": [
+        {
+          "text": "In some common graduate assignments, students are instructed to compare therapeutic models, provide possible interventions given specific presenting problems, or engage in case study analyses. These papers may have particular sections (such as presenting problem, or socio-cultural considerations of a given model)."
+        },
+        {
+          "text": "Sometimes, writers who are just becoming comfortable with APA style, or with academic writing in general, will mimic academic language in ways subtly less clear than writers who use academic register fluently. For example, one might write the following sentence, which sounds academic to the mental ear, but in which almost everything is done poorly."
+        }
+      ]
+    },
+    {
+      "heading": "The Structure of a Paper in APA Style",
+      "level": 1,
+      "content": [
+        {
+          "text": "In some common graduate assignments, students are instructed to compare therapeutic models, provide possible interventions given specific presenting problems, or engage in case study analyses. These papers may have particular sections (such as presenting problem, or socio-cultural considerations of a given model)."
+        },
+        {
+          "text": "Sometimes, writers who are just becoming comfortable with APA style, or with academic writing in general, will mimic academic language in ways subtly less clear than writers who use academic register fluently."
+        }
+      ]
+    },
+    {
+      "heading": "Organizing the Main Body",
+      "level": 2,
+      "content": [
+        {
+          "figures":{}
+        },
+        {
+          "text": "In some common graduate assignments, students are instructed to compare therapeutic models, provide possible interventions given specific presenting problems, or engage in case study analyses. These papers may have particular sections (such as presenting problem, or socio-cultural considerations of a given model)."
+        },
+        {
+          "table_data": {}
+        },
+        {
+          "list": {
+            "list_type": "bullet",
+            "items": []
+          }
+        },
+       
+        {
+          "text": "Sometimes, writers who are just becoming comfortable with APA style, or with academic writing in general, will mimic academic language in ways subtly less clear than writers who use academic register fluently."
+        }
+      ]
+    },
+    {
+      "heading": "Language Concerns in the Body of the Paper",
+      "level": 4,
+      "content": [
+        {
+          "text": "In some common graduate assignments, students are instructed to compare therapeutic models, provide possible interventions given specific presenting problems, or engage in case study analyses."
+        },
+        {
+          "list": {
+            "list_type": "bullet",
+            "items": []
+          }
+        },
+        {
+          "block": {
+            "quote": "",
+            "following_text": ""
+          }
+        },
+        {
+          "text": "Sometimes, writers who are just becoming comfortable with APA style, or with academic writing in general, will mimic academic language in ways subtly less clear than writers who use academic register fluently."
+        },
+        {
+          "text": "Sometimes, writers who are just becoming comfortable with APA style, or with academic writing in general, will mimic academic language in ways subtly less clear than writers who use academic register fluently."
+        }
+      ]
+    }
+  ],
+    "citations": [
+      {
+        "type": "book",
+        "author": [
+          {
+            "last_name": "Smith",
+            "first_name": "John A."
+          }
+        ],
+        "year": 2020,
+        "title": "Learning Strategies for Academic Success",
+        "publisher": "Academic Press"
+      },
+      {
+        "type": "journal_article",
+        "author": [
+          {
+            "last_name": "Johnson",
+            "first_name": "Laura K."
+          },
+          {
+            "last_name": "Williams",
+            "first_name": "Thomas J."
+          }
+        ],
+        "year": 2019,
+        "title": "The impact of classroom environment on student engagement",
+        "journal": "Journal of Educational Research",
+        "volume": 45,
+        "issue": 3,
+        "pages": "123-145",
+        "doi": "10.1234/jedr.2019.034"
+      },
+      {
+        "type": "website",
+        "author": [
+          {
+            "last_name": "Brown",
+            "first_name": "Michael"
+          }
+        ],
+        "date": "2021-05-05",
+        "title": "How to develop research skills",
+        "website_name": "Research Help Center",
+        "url": "https://www.researchcenter.org/develop-skills"
+      },
+      {
+        "type": "newspaper_article",
+        "author": [
+          {
+            "last_name": "Rojas",
+            "first_name": "Sophia"
+          }
+        ],
+        "date": "2020-09-22",
+        "title": "Advances in education technology",
+        "newspaper": "The Digital Times",
+        "url": "https://www.digitaltimes.com/education/tech"
+      },
+      {
+        "type": "book_chapter",
+        "author": [
+          {
+            "last_name": "Garcia",
+            "first_name": "Maria L."
+          }
+        ],
+        "editor": [
+          {
+            "last_name": "Brown",
+            "first_name": "Thomas S."
+          }
+        ],
+        "year": 2018,
+        "chapter_title": "Cognitive learning theories",
+        "book_title": "Foundations of Learning",
+        "publisher": "Learning Publishers",
+        "pages": "45-67"
+      },
+      {
+        "type": "journal_article",
+        "author": [
+          {
+            "last_name": "Kim",
+            "first_name": "Robert T."
+          },
+          {
+            "last_name": "Jones",
+            "first_name": "Amanda M."
+          },
+          {
+            "last_name": "Patel",
+            "first_name": "Nisha R."
+          }
+        ],
+        "year": 2020,
+        "title": "Exploring machine learning in education",
+        "journal": "Technology and Learning Journal",
+        "volume": 12,
+        "issue": 2,
+        "pages": "67-89",
+        "doi": "10.5678/tlj.2020.002"
+      },
+      {
+        "type": "website",
+        "author": null,
+        "date": "2019-07-12",
+        "title": "Climate change effects on agriculture",
+        "website_name": "World Research Organization",
+        "url": "https://www.wro.org/climate-change-effects"
+      }
+    ],
+    "tables_figure":[
+    {"table_data": {
+        "table_number": "Table 1",
+        "table_title": "Impact of Study Hours on Academic Performance",
+        "headers": ["Study Hours", "Students", "Mean Score"],
+        "data": [
+          [5, 30, 75],
+          [10, 25, 82],
+          [15, 20, 88],
+          [20, 10, 92]
+        ],
+        "notes": "Note: The data reflects a sample of student scores over various study hours."
+      }
+    },
+      {
+        "figures":{
+          "figure_number": "figure 1",
+          "figure_title": "Impact of Study Hours on Academic Performance",
+          "figure_url":"barchart.jpg",
+          "notes": "Note: The data reflects a sample of student scores over various study hours."
+
+        }
+      }
+    ]
+    
+
+  }
+  
