@@ -14,6 +14,16 @@ This repository contains scripts to help students create documents in APA format
 
 - Python 3.x
 
+
+### Installation
+
+1. Clone the repository:
+
+2. Navigate to the project directory:
+
+3. Install the required libraries:
+
+
 ## Usage
 
 1. Prepare your document details in a JSON file.
