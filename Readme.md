@@ -14,22 +14,6 @@ This repository contains scripts to help students create documents in APA format
 
 - Python 3.x
 
-
-### Installation
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/your-username/apa-style-docx-using-python  
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd APA-style-docx-using-python
-    ```
-3. Install the required libraries:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 1. Prepare your document details in a JSON file.
