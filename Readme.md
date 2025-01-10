@@ -19,7 +19,7 @@ This repository contains scripts to help students create documents in APA format
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/apa-style-docx-using-python  
+    git clone https://github.com/junaidch05/apa-style-docx-using-python  
     ```
 2. Navigate to the project directory:
     ```sh
