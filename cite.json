@@ -1,0 +1,113 @@
+{"citations": [
+      {
+        "type": "book",
+        "author": [
+          {
+            "last_name": "Smith",
+            "first_name": "John A."
+          }
+        ],
+        "year": 2020,
+        "title": "Learning Strategies for Academic Success",
+        "publisher": "Academic Press"
+      },
+      {
+        "type": "journal_article",
+        "author": [
+          {
+            "last_name": "Johnson",
+            "first_name": "Laura K."
+          },
+          {
+            "last_name": "Williams",
+            "first_name": "Thomas J."
+          }
+        ],
+        "year": 2019,
+        "title": "The impact of classroom environment on student engagement",
+        "journal": "Journal of Educational Research",
+        "volume": 45,
+        "issue": 3,
+        "pages": "123-145",
+        "doi": "10.1234/jedr.2019.034"
+      },
+      {
+        "type": "website",
+        "author": [
+          {
+            "last_name": "Brown",
+            "first_name": "Michael"
+          }
+        ],
+        "date": "2021-05-05",
+        "title": "How to develop research skills",
+        "website_name": "Research Help Center",
+        "url": "https://www.researchcenter.org/develop-skills"
+      },
+      {
+        "type": "newspaper_article",
+        "author": [
+          {
+            "last_name": "Rojas",
+            "first_name": "Sophia"
+          }
+        ],
+        "date": "2020-09-22",
+        "title": "Advances in education technology",
+        "newspaper": "The Digital Times",
+        "url": "https://www.digitaltimes.com/education/tech"
+      },
+      {
+        "type": "book_chapter",
+        "author": [
+          {
+            "last_name": "Garcia",
+            "first_name": "Maria L."
+          }
+        ],
+        "editor": [
+          {
+            "last_name": "Brown",
+            "first_name": "Thomas S."
+          }
+        ],
+        "year": 2018,
+        "chapter_title": "Cognitive learning theories",
+        "book_title": "Foundations of Learning",
+        "publisher": "Learning Publishers",
+        "pages": "45-67"
+      },
+      {
+        "type": "journal_article",
+        "author": [
+          {
+            "last_name": "Kim",
+            "first_name": "Robert T."
+          },
+          {
+            "last_name": "Jones",
+            "first_name": "Amanda M."
+          },
+          {
+            "last_name": "Patel",
+            "first_name": "Nisha R."
+          }
+        ],
+        "year": 2020,
+        "title": "Exploring machine learning in education",
+        "journal": "Technology and Learning Journal",
+        "volume": 12,
+        "issue": 2,
+        "pages": "67-89",
+        "doi": "10.5678/tlj.2020.002"
+      },
+      {
+        "type": "website",
+        "author": null,
+        "date": "2019-07-12",
+        "title": "Climate change effects on agriculture",
+        "website_name": "World Research Organization",
+        "url": "https://www.wro.org/climate-change-effects"
+      }
+    ]
+  }
