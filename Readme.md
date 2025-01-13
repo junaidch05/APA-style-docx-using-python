@@ -1,6 +1,6 @@
 # APA Style Document Creation
 
-This repository contains scripts to help students create documents in APA format. It is designed for those who are unfamiliar with APA formatting rules. This is the first phase of the project, which uses JSON to manage document details. In the next phase, the project will be updated to use a database for storing document details.
+This repository contains scripts to help students create documents in APA format. It is designed for those who are unfamiliar with APA formatting rules. User just have to write text in textbox and click on generate button. This is the first phase of the project, which uses JSON to manage document details. In the next phase, the project will be updated to use a database for storing document details.
 
 ## Features
 
@@ -36,6 +36,7 @@ This repository contains scripts to help students create documents in APA format
 
 - Replace JSON with a database for managing document details.
 - Add more customization options for APA formatting.
+- Create Web UI.
 
 ## Contributing
 
